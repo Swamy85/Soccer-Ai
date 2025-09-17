@@ -1,0 +1,11 @@
+player_name,goals,assists,passes,tackles,shots,performance_score,predicted_rating,player_cluster,player_category
+Lionel Messi,25,18,2200,15,120,466.25,9.124751232604705,0,Average
+Cristiano Ronaldo,28,12,1500,10,140,326.9,5.500178979946904,0,Average
+Neymar Jr,20,15,1800,12,110,382.55,6.829005652230922,0,Average
+Kylian Mbappe,27,10,1700,14,130,365.70000000000005,6.377283835680217,0,Average
+Kevin De Bruyne,10,20,2500,18,90,519.7,10.0,2,Below Par
+Virgil van Dijk,5,2,2000,40,30,411.0,6.569271131786705,1,Star
+Luka Modric,7,10,2300,22,60,473.90000000000003,8.81382697426669,2,Below Par
+Robert Lewandowski,30,8,1200,8,150,267.2,3.501304417637572,0,Average
+Sergio Ramos,8,3,800,35,40,172.4,1.776983620756969,1,Star
+Manuel Neuer,0,1,500,2,5,101.05,0.0,1,Star
